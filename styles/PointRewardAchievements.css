@@ -1,0 +1,156 @@
+.frame-1707480187,
+.frame-1707480187 * {
+    box-sizing: border-box;
+}
+
+.frame-1707480187 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.your-trophies {
+    color: #1f1f26;
+    text-align: center;
+    font-family: "Poppins-SemiBold", sans-serif;
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: 600;
+    position: relative;
+    align-self: stretch;
+    height: 36px;
+}
+
+.all-your-awesome-trophies-are-displayed-here-something-to-brag-about {
+    color: #1f1f26;
+    text-align: left;
+    font-family: "Poppins-Regular", sans-serif;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 400;
+    position: relative;
+    align-self: stretch;
+}
+
+/* Reward List */
+
+/* diamond */
+.frame-1707480195 {
+    background: #ffffff;
+    border-radius: 24px;
+    padding: 30px 120px 30px 120px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    height: 340px;
+    position: relative;
+    box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.16);
+}
+
+.frame-1707480190 {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-1707480188 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 32px;
+    position: relative;
+}
+
+.blue {
+    color: #1f1f26;
+    text-align: center;
+    font-family: "Poppins-SemiBold", sans-serif;
+    font-size: 36px;
+    line-height: 34px;
+    font-weight: 600;
+    position: relative;
+    align-self: stretch;
+}
+
+.frame1-1707480198 {
+    background: rgba(0, 130, 245, 0.1);
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 132px;
+    height: 40px;
+    position: relative;
+}
+.frame2-1707480198 {
+    background: rgba(245, 216, 0, 0.1);
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 132px;
+    height: 40px;
+    position: relative;
+}
+.frame3-1707480198 {
+    background: rgba(104, 104, 104, 0.1);
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 132px;
+    height: 40px;
+    position: relative;
+}
+
+.points1-0 {
+    color: #0082f5;
+    text-align: center;
+    font-family: "Poppins-Medium", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+}
+.points2-0 {
+    color: #f5c400;
+    text-align: center;
+    font-family: "Poppins-Medium", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+}
+.points3-0 {
+    color: #878787;
+    text-align: center;
+    font-family: "Poppins-Medium", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    position: relative;
+}

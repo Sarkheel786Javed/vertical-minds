@@ -1,0 +1,318 @@
+.footer {
+    background: #112f82;
+    width: 100%;
+    min-height: 221px;
+    position: relative;
+    overflow: hidden;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: end;
+    gap: 0.5%;
+}
+
+
+.column-1 {
+    width: 39%;
+}
+
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.updated-logo-vertical-minds-horizontal-logo-in-2-colora-2 {
+    flex-shrink: 0;
+    width: 277px;
+    height: 51px;
+    position: relative;
+    overflow: hidden;
+}
+
+.group {
+    width: 98.6%;
+    height: 76.39%;
+}
+
+.frame-1707480106 {
+    flex-shrink: 0;
+    width: 306px;
+    height: 56px;
+    position: relative;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit {
+    color: #f0f0f0;
+    text-align: left;
+    font-family: "Poppins-Regular", sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 400;
+    margin-left: 35px;
+    width: 306px;
+}
+
+.column-2 {
+    width: 50%;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: end;
+    padding-right: 35px;
+}
+
+.social {
+    flex-shrink: 0;
+    width: 171.98px;
+    height: 20px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: center;
+    gap: 40px;
+}
+
+.about-us {
+    color: #70e259;
+    text-align: left;
+    font-family: "Poppins-Medium", sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+    position: relative;
+}
+
+.contact {
+    color: #f0f0f0;
+    text-align: left;
+    font-family: "Poppins-Regular", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    position: relative;
+}
+
+.privacy-policy {
+    color: #f0f0f0;
+    text-align: left;
+    font-family: "Poppins-Regular", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    position: relative;
+}
+
+.sitemap {
+    color: #f0f0f0;
+    text-align: left;
+    font-family: "Poppins-Regular", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    position: relative;
+}
+
+.terms-of-use {
+    color: #f0f0f0;
+    text-align: left;
+    font-family: "Poppins-Regular", sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    position: relative;
+}
+
+@media (max-width:767px) {
+
+    .footer,
+    .footer * {
+        box-sizing: border-box;
+    }
+
+    .footer {
+        background: #112f82;
+        padding: 42px 40px 42px 40px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-shrink: 0;
+        position: relative;
+    }
+
+    .columns {
+        display: flex;
+        flex-direction: column;
+        gap: 96px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        align-self: stretch;
+        flex-shrink: 0;
+        position: relative;
+    }
+
+    .column-1 {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-shrink: 0;
+        position: relative;
+    }
+
+    .info {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        align-self: stretch;
+        flex-shrink: 0;
+        position: relative;
+    }
+
+    .updated-logo-vertical-minds-horizontal-logo-in-2-colora-2 {
+        flex-shrink: 0;
+        width: 277px;
+        height: 51px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .group {
+        width: 98.6%;
+        height: 76.39%;
+        position: absolute;
+        left: 0;
+        bottom: 11.78%;
+        top: 11.83%;
+        overflow: visible;
+    }
+
+    .frame-1707480106 {
+        width: 306px;
+        height: 56px;
+        position: relative;
+    }
+
+    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit {
+        color: #f0f0f0;
+        text-align: left;
+        font-family: "Poppins-Regular", sans-serif;
+        font-size: 14px;
+        line-height: 28px;
+        font-weight: 400;
+        margin-left: 35px;
+        width: 180px;
+    }
+
+    .column-2 {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        align-items: flex-start;
+        justify-content: flex-end;
+        flex-shrink: 0;
+        position: relative;
+        padding-left: 30px;
+        margin-top: 50px;
+    }
+
+    .social {
+        flex-shrink: 0;
+        width: 171.98px;
+        height: 20px;
+        position: relative;
+        overflow: visible;
+    }
+
+    .items {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-shrink: 0;
+        position: relative;
+    }
+
+    .about-us {
+        color: #70e259;
+        text-align: left;
+        font-family: "Poppins-Medium", sans-serif;
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: 500;
+        position: relative;
+    }
+
+    .contact {
+        color: #f0f0f0;
+        text-align: left;
+        font-family: "Poppins-Regular", sans-serif;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 400;
+        position: relative;
+    }
+
+    .privacy-policy {
+        color: #f0f0f0;
+        text-align: left;
+        font-family: "Poppins-Regular", sans-serif;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 400;
+        position: relative;
+    }
+
+    .sitemap {
+        color: #f0f0f0;
+        text-align: left;
+        font-family: "Poppins-Regular", sans-serif;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 400;
+        position: relative;
+    }
+
+    .terms-of-use {
+        color: #f0f0f0;
+        text-align: left;
+        font-family: "Poppins-Regular", sans-serif;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 400;
+        position: relative;
+    }
+
+}

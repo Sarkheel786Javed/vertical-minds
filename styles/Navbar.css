@@ -1,0 +1,66 @@
+.navbar {
+    min-height: 100px;
+    background-color: white;
+}
+
+.logo {
+    font-family: "Kodchasan", serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: rgba(3, 3, 95, 0.998);
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0.5;
+    align-items: center;
+}
+
+.btn,
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: "Poppins-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.nav-link:hover {
+    background-color: #198754;
+}
+
+.register {
+    background: #0b8a44;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 0.5px;
+    padding: 12px 32px 12px 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+    justify-content: flex-start;
+    height: 40px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+    overflow: hidden;
+  }
+.login{
+    background: linear-gradient(
+    180deg,
+    rgba(9, 27, 71, 1) 0%,
+    rgba(36, 0, 152, 1) 100%
+  );
+  border-radius: 24px;
+  padding: 10px 32px 10px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
